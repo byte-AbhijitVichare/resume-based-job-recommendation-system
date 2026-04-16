@@ -1,0 +1,11 @@
+job_title,skills
+Data Scientist,"python, machine learning, statistics, pandas, numpy"
+Data Analyst,"sql, excel, python, visualization, power bi"
+ML Engineer,"python, deep learning, tensorflow, pytorch, deployment"
+Web Developer,"html, css, javascript, react, frontend"
+Backend Developer,"python, django, flask, api, database"
+Cloud Engineer,"aws, cloud, devops, linux, kubernetes"
+AI Engineer,"python, deep learning, nlp, computer vision"
+Software Engineer,"java, python, data structures, algorithms"
+Business Analyst,"excel, sql, communication, analytics"
+DevOps Engineer,"docker, kubernetes, ci/cd, aws"
